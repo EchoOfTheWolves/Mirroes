@@ -51,7 +51,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color:          #8FB7D4;
+  --cd-navbar-background-color:          #bdaee4;
   --cd-navbar-brand-color:               var(--cd-content-background-color);
   --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
   --cd-navbar-text-color:                var(--cd-content-background-color);
