@@ -21,7 +21,7 @@ let sheetPages = {
     staff: "mods",
     announcement: "General Announcements",
     update: "Species Updates",
-    adopt: "Adopts"
+    adopt: "Adopts",
 
 }
 
